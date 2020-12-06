@@ -1,0 +1,24 @@
+{
+  "name": "fsd_level_2",
+  "version": "1.0.0",
+  "description": "level2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitriyhk/fsd_level_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmitriyhk/fsd_level_2/issues"
+  },
+  "homepage": "https://github.com/Dmitriyhk/fsd_level_2#readme",
+  "devDependencies": {
+    "path": "^0.12.7",
+    "webpack": "^5.10.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
